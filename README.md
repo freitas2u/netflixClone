@@ -1,4 +1,4 @@
-# netflixClone
+# NetflixUIClone
 Clone do App da Netflix usando Android Studio
 
 sites para checar cores Hexadecimal:
